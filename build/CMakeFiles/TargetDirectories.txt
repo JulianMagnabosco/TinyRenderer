@@ -1,0 +1,3 @@
+D:/Documentos/JULIAN/codigo/_CPP/tinyrenderer/build/CMakeFiles/tinyrenderer.dir
+D:/Documentos/JULIAN/codigo/_CPP/tinyrenderer/build/CMakeFiles/ALL_BUILD.dir
+D:/Documentos/JULIAN/codigo/_CPP/tinyrenderer/build/CMakeFiles/ZERO_CHECK.dir

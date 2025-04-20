@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documentos\JULIAN\codigo\_CPP\tinyrenderer\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Documentos\JULIAN\codigo\_CPP\tinyrenderer\tgaimage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documentos\JULIAN\codigo\_CPP\tinyrenderer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{066B0255-DD88-3C1F-B0DF-2CC75479DC09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

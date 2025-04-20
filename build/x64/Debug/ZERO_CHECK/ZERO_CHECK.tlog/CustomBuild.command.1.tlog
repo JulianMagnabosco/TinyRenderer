@@ -1,0 +1,10 @@
+^D:\DOCUMENTOS\JULIAN\CODIGO\_CPP\TINYRENDERER\BUILD\CMAKEFILES\EFC4DC639864DE25DA83AE97C1F0C65D\GENERATE.STAMP.RULE
+setlocal
+D:\Documentos\JULIAN\codigo\_CPP\cmake-4.0.1-windows-x86_64\bin\cmake.exe -SD:/Documentos/JULIAN/codigo/_CPP/tinyrenderer -BD:/Documentos/JULIAN/codigo/_CPP/tinyrenderer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Documentos/JULIAN/codigo/_CPP/tinyrenderer/build/Engine3d.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
